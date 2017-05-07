@@ -104,3 +104,4 @@ w.pack(expand = YES, fill = BOTH)
 w.bind('<B1-Motion>', build_all(w, 2, length, x, y, xr, yr))
 
 mainloop()
+#tema_lox
